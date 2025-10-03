@@ -1,4 +1,4 @@
-name = "hugo-theme-console"
+name = "hugo-theme-line"
 license = "MIT"
 licenselink = "https://github.com/mrmierzejewski/hugo-theme-console/blob/master/LICENSE"
 description = " minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second."
@@ -8,6 +8,11 @@ features = ["disqus", "responsive", "google analytics"]
 min_version = "0.90.0"
 
 [author]
+  name = "zhumouren"
+  homepage = "https://mrmierzejewski.com"
+  github = "https://github.com/mourenZhu"
+
+[original]
   name = "Marcin Mierzejewski"
   homepage = "https://mrmierzejewski.com"
   github = "https://github.com/mrmierzejewski"
