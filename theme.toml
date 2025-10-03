@@ -12,7 +12,7 @@ min_version = "0.90.0"
   homepage = "https://mrmierzejewski.com"
   github = "https://github.com/mourenZhu"
 
-[original]
+[original2]
   name = "Marcin Mierzejewski"
   homepage = "https://mrmierzejewski.com"
   github = "https://github.com/mrmierzejewski"
